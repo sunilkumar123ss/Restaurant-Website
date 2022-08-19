@@ -1,4 +1,4 @@
-Responsive restaurent website.
+Responsive restaurant website.
 
 
 
